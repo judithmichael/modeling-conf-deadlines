@@ -72,8 +72,8 @@
         </div>
         <div class="meta col-xs-12">
           You can optionally export all deadlines to
-          <a href="https://calendar.google.com/calendar/r?cid=https://madhunimmo.github.io/plse-deadlines/ai-deadlines.ics">Google Calendar</a> or
-          <a href="https://madhunimmo.github.io/plse-deadlines/ai-deadlines.ics">.ics</a>.
+          <a href="https://calendar.google.com/calendar/r?cid=https://judithmichael.github.io/modeling-conf-deadlines/ai-deadlines.ics">Google Calendar</a> or
+          <a href="https://judithmichael.github.io/modeling-conf-deadlines/ai-deadlines.ics">.ics</a>.
         </div>
       </div>
     </div>
@@ -282,7 +282,7 @@
       }
     }
     store.set('{{ site.domain }}', subs);
-    window.history.pushState('', '', '/plse-deadlines');
+    window.history.pushState('', '', '/modeling-conf-deadlines');
 
     // Event handler on checkbox change
     $('form :checkbox').change(function (e) {
@@ -306,7 +306,7 @@
       }
       console.log(subs);
       store.set('{{ site.domain }}', subs);
-      window.history.pushState('', '', '/plse-deadlines?sub=' + subs.join());
+      window.history.pushState('', '', '/modeling-conf-deadlines?sub=' + subs.join());
     });
 
     // Event handler on sub click
@@ -323,7 +323,7 @@
       subs = [csub];
       console.log(subs);
       store.set('{{ site.domain }}', subs);
-      window.history.pushState('', '', '/plse-deadlines?sub=' + subs.join());
+      window.history.pushState('', '', '/modeling-conf-deadlines?sub=' + subs.join());
     });
     });
     <!-- Google analytics -->
