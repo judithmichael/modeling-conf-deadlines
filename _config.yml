@@ -7,7 +7,7 @@ baseurl: "https://judithmichael.github.io/modeling-conferences-deadlines/"
 
 twitter_username: JudithMichael_
 github_username: judithmichael
-github_repo: modeling-conferences-deadlines 
+github_repo: modeling-conf-deadlines 
 
 markdown: kramdown
 ga_id:
