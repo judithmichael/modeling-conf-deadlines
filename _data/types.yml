@@ -1,13 +1,7 @@
 ---
-- name: Software Modeling
-  sub: SM
+- name: Software Engineering
+  sub: SE
 - name: Data Modeling
   sub: DM
 - name: Process Modeling
   sub: PM
-- name: Software Languages
-  sub: SL
-- name: Software Engineering
-  sub: SE
-- name: Formal Methods
-  sub: FM
