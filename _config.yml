@@ -1,15 +1,16 @@
-title: Modeling Conference Deadlines # (Maintained by @madhunimmo)
+title: Modeling Conference Deadlines # (Maintained by @judithmichael)
 
-description: Countdowns to top PL and SE conference deadlines
-author: Madhurima Chakraborty (forked from @zhangysh1995 who forked from @abhshkdz :P)
+description: Countdowns to modeling conference deadlines
+author: Judith Michael (forked from @madhunimmo who forked from @abhshkdz)
 domain: ""
-baseurl: "https://madhunimmo.github.io/plse-deadlines"
+baseurl: "https://judithmichael.github.io/modeling-conferences-deadlines/"
 
-twitter_username: FriendingNimmo 
-github_username: madhunimmo
-github_repo: plse-deadlines
+twitter_username: JudithMichael_
+github_username: judithmichael
+github_repo: modeling-conferences-deadlines 
 
 markdown: kramdown
-ga_id: UA-36274081-2
+ga_id:
 
 include: ['_pages']
+
