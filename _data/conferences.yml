@@ -76,7 +76,7 @@
   timezone: AoE (UTC-12h)
   date: October 20-25, 2024
   place: Pasadena, California, United States
-  sub: PL
+  sub: SL
   note: Multiple Deadlines
 
 - title: MODELS
@@ -88,7 +88,7 @@
   timezone: AoE (UTC-12h)
   date: September 22-27, 2024
   place: Linz, Austria
-  sub: SE
+  sub: SE, SM
   note: Multiple Deadlines
 
 - title: Modellierung
@@ -100,7 +100,7 @@
   timezone: AoE (UTC-12h)
   date: March 12-15, 2024
   place: Potsdam, Germany
-  sub: SE
+  sub: SM, DM, PM, FM
 
 - title: ECMFA
   hindex:
@@ -111,5 +111,5 @@
   timezone: AoE (UTC-12h)
   date: July 8-12, 2024
   place: Enschede, Netherlands
-  sub: SE
+  sub: SM, FM
   note: Multiple Deadlines
