@@ -1,4 +1,4 @@
-## PL/SE Deadlines
+## Modeling Conference Deadlines
 
 Countdown timers to keep track of a bunch of Programming Language and Software Engineering conference deadlines.
 
