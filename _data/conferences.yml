@@ -113,3 +113,15 @@
   place: Enschede, Netherlands
   sub: SE
   note: Multiple Deadlines
+
+- title: ER
+  hindex:
+  year: 2023
+  id: er2023
+  link: https://er2023.inesc-id.pt/
+  deadline: "2023-05-31 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: November 6-9, 2023
+  place: Lisbon, Portugal
+  sub: SE
+  note: Multiple Deadlines
