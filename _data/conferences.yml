@@ -1,4 +1,15 @@
 ---
+- title: ER
+  hindex:
+  year: 2024
+  id: er2024
+  link: https://resources.sei.cmu.edu/news-events/events/er2024/
+  deadline: "2024-05-26 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: October 28-31, 2024
+  place: Carnegie Mellon University, Pittsburgh, USA
+  sub: SE
+  
 - title: ICSE
   hindex:
   year: 2024
