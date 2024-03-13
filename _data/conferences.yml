@@ -1,4 +1,15 @@
 ---
+- title: Engineering Digital Twins conference (EDTconf 24)
+  hindex:
+  year: 2024
+  id: edtconf2024
+  link: https://conf.researchr.org/home/edtconf-2024
+  deadline: "2024-06-24 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: September 23-24, 2024
+  place: Linz, Austria
+  sub: SE
+  
 - title: ER
   hindex:
   year: 2024
