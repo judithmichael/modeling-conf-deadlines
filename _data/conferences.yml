@@ -1,4 +1,17 @@
 ---
+
+- title: MODELS
+  hindex:
+  year: 2025
+  id: models2025
+  link: https://conf.researchr.org/home/models-2025
+  deadline: "2025-04-04 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: October 5-10, 2025
+  place: Michigan, Ann Arbor, USA
+  sub: SE
+  note: Multiple Deadlines
+
 - title: Engineering Digital Twins conference (EDTconf)
   hindex:
   year: 2024
