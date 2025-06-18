@@ -1,5 +1,16 @@
 ---
 
+- title: Engineering Digital Twins conference (EDTconf)
+  hindex:
+  year: 2025
+  id: edtconf2024
+  link: https://conf.researchr.org/home/edtconf-2025
+  deadline: "2025-07-02 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: October 6-7, 2025
+  place:  Grand Rapids, Michigan, US and hybrid
+  sub: SE
+
 - title: MODELS
   hindex:
   year: 2025
@@ -10,6 +21,18 @@
   date: October 5-10, 2025
   place: Michigan, Ann Arbor, USA
   sub: SE
+  note: Multiple Deadlines
+
+  - title: ER
+  hindex:
+  year: 2025
+  id: er2025
+  link: https://er2025.ensma.fr/
+  deadline: "2025-05-26 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: October 20-23, 2025
+  place: Poitiers / Futuroscope, France
+  sub: DB
   note: Multiple Deadlines
 
 - title: ECMFA
@@ -158,17 +181,5 @@
   timezone: AoE (UTC-12h)
   date: July 8-12, 2024
   place: Enschede, Netherlands
-  sub: SE
-  note: Multiple Deadlines
-
-- title: ER
-  hindex:
-  year: 2023
-  id: er2023
-  link: https://er2023.inesc-id.pt/
-  deadline: "2023-05-31 23:59:59"
-  timezone: AoE (UTC-12h)
-  date: November 6-9, 2023
-  place: Lisbon, Portugal
   sub: SE
   note: Multiple Deadlines
